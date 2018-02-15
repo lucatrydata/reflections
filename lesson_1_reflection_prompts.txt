@@ -1,0 +1,23 @@
+-How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+
+ Mi aiuta a vedere il bug perche' comparandoli le differenze e quindi gli errori sono evidenziati. 
+
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Credo perche' cosi' potrei avere il controllo non casuale dell'andamento evolutivo del file, o comunque posso attingere a codici o cambiamenti usati magari per altri file.
+
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Avendo la possibilita' di scegliere sicuramente potrei fare salvataggi piu' sensati e con un motivo, e darei alla storia del file un ordine nel quale sicuramente mi ritroverei pero' magari potrei dimenticarmi di salvare, mentre con il salvataggio automatico rischio di andare a salvare quantitativi di lavoro troppo grossi nel quale sarebbe piu' difficile districarmi, oppure troppo piccoli e creerei troppi commit nei quali sarebbe piu' difficile navigare, ma sicuramente salvando ogni tot c'e' meno rischio che io vada a perdere lavoro dimenticandomi di salvare.
+
+-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Penso che git ti permetta un lavoro piu' rapido e immediato, mentre google docs non so. Mi sembra piu' lento, ma magari evita salvataggi inutili dove per sbaglio possono essere aggiunti errori.
+
+-How can you use the commands git log and git diff to view the history of files?
+Devi semplicemente digitare git log poi invio e vedi l'intera storia dei commit salvati, successivamente poi digitare Q  poi git diff e gli id che vuoi comparare e vedi le differenze tra i due commit.
+
+-How might using version control make you more confident to make changes that could break something?
+Perche' comunque ho la sicurezza di avere i salvataggi precedent ai quali posso accedere e ritornare quando voglio.
+
+-Now that you have your workspace set up, what do you want to try using Git for?
+Credo che vorro' utilizzarlo per un progetto personale.
